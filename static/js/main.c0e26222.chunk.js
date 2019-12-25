@@ -1,2 +1,0 @@
-(this["webpackJsonpweb-lamusadecima"]=this["webpackJsonpweb-lamusadecima"]||[]).push([[0],[,,,function(e,a,n){e.exports=n(10)},,,,,function(e,a,n){},function(e,a,n){},function(e,a,n){"use strict";n.r(a);var t=n(0),c=n.n(t),r=n(2),l=n.n(r);n(8),n(9);var s=function(){return c.a.createElement("div",{className:"App"},c.a.createElement("header",{className:"App-header"},c.a.createElement("p",null,"Hello World")))};l.a.render(c.a.createElement(s,null),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.c0e26222.chunk.js.map
